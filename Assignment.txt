@@ -1,0 +1,104 @@
+https://global.gotomeeting.com/join/767404357
+-------------------------------------------------- 
+Admin Module
+http://96.84.175.78/MMP-Release2-Admin-Build.2.1.000/login.php
+
+
+
+https://money.rediff.com/gainers/bse/daily/groupa?src=gain_lose
+               String expectedstockname="Centrum Capital";
+ String expectedstockcurrentprice="13.97";
+ Validate the data is displayed as expected
+
+https://www.youtube.com/watch?v=Cg1S2SymQfE&list=PLnFkKNsM262L8gscqUhwM12TZdqg2Fey8
+------------------------------------------------------------------------------------
+HashMap example
+http://total-qa.com/selenium-webdriver-using-hashmap-storing-values-excel-examples/
+
+DropBox
+
+https://www.dropbox.com/sh/z0utlm3mxk0unow/AABwuQkHrP-ogyyaFoAoZzUya?dl=0
+----------------------------------------------------------------
+http://total-qa.com/write-xlsx-using-apache-poi-maven-project/
+---------------------------------------------------------------------
+Reading from Xls
+http://total-qa.com/testng-introduction/testng-feature-dataprovider-data-driven-framework/
+----------------------------------------------------------------
+POM Principles
+https://www.youtube.com/watch?v=ldSBhc3peVU&list=PLnFkKNsM262KeVzG9UB6Yk2qLnXj6QP58
+
+---------------------------------------------------------------------------------
+GIT HUb code - modules
+https://github.com/sudheer51/Wales/tree/mmpEndToEnd_UpdatesFromNithya
+----------------------------------------------------------------------------
+https://github.com/SeleniumHQ/selenium/wiki/PageObjects
+-------------------------------------------------------------------
+My Local Repo
+C:\Users\16039\git\ERICMMP
+
+My GLobal Repo
+https://github.com/satya-manda/TeamEricMMP.git
+
+
+
+
+
+9/1
+-----
+Abstract class
+1. What is an abstract class
+2. What is an abstract method
+3. How to invoke methods in an abstract class.
+
+Youtube link for chromedriver.exe
+--------------
+https://youtu.be/wiZqMNybKXs
+
+Webdriver Manager
+------------------
+http://total-qa.com/using-webdrivermanager-class-selenium-webdriver/
+
+
+
+
+
+
+
+
+
+
+
+
+
+Monika K
+
+Monika 7326486583
+Sudheer
+9986532694
+
+
+
+
+
+Deepika Agarwal
+
+deepika-5737970410
+------------------------------------------------------------------------
+YouTube Links
+
+
+Let's Kode It
+Anand Hooda Classes
+
+Software Testing Material
+
+Durga Software Solutions
+
+
+
+
+
+
+
+
+
